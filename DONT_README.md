@@ -1,3 +1,5 @@
+* Gatsby Workshop Hints
+
 ** gatsby.config.js
 
 ```
