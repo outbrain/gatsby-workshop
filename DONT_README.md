@@ -1,6 +1,6 @@
-* Gatsby Workshop Hints
+# Gatsby Workshop Hints
 
-** gatsby.config.js
+## gatsby.config.js
 
 ```
 {
@@ -11,9 +11,9 @@
 },
 ```
 
-** src/components/pages/index.tsx
+## src/components/pages/index.tsx
 
-*** GraphQL Query
+### GraphQL Query
 
 ```
 export const query = graphql`
@@ -39,7 +39,7 @@ export const query = graphql`
 `
 ```
 
-*** Code
+### Code
 
 ```
 {
@@ -61,7 +61,7 @@ export const query = graphql`
 }
 ```
 
-** gatsby-node.js
+## gatsby-node.js
 
 ```
 const BlogPostTemplate = path.resolve("./src/templates/post.tsx");
@@ -98,9 +98,9 @@ return graphql(`
 });
 ```
 
-** src/components/templates/post.tsx
+## src/components/templates/post.tsx
 
-*** GraphQL
+### GraphQL
 ```
 export const query = graphql`
   query($slug: String) {
@@ -123,7 +123,7 @@ export const query = graphql`
 `
 ```
 
-*** Code
+### Code
 ```
 <SEO
   title={data.mediumPost.title}
