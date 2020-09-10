@@ -7,12 +7,11 @@ In this workshop we’re going to create a Gatsby website, and rely on data from
 </p>
 
 <p align="center">
-  <strong>A quick intro to GatsbyJS:</strong><br /><br />
   <a href="https://www.youtube.com/watch?v=S632nIS2WKo">
     <img alt="Intro to GatsbyJS" src="https://img.youtube.com/vi/S632nIS2WKo/0.jpg" />
   </a>
   <br />
-  <a href="https://www.youtube.com/watch?v=S632nIS2WKo">https://www.youtube.com/watch?v=S632nIS2WKo</a>
+  <a href="https://www.youtube.com/watch?v=S632nIS2WKo">A quick intro to GatsbyJS</a>
 </p>
 
 ## Workshop Instructions
