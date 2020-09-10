@@ -1,6 +1,6 @@
 # GatsbyJS Workshop
 
-A workshop for learning GatsbyJS by [http://danielsternlicht.com](Daniel Sternlicht).
+A workshop for learning GatsbyJS by [Daniel Sternlicht](http://danielsternlicht.com).
 
 In this workshop we’re going to create a Gatsby website, and rely on data from a Medium based blog.
 
