@@ -1,26 +1,27 @@
 # GatsbyJS Workshop
 
-A workshop for learning GatsbyJS by [![IMAGE ALT TEXT](http://danielsternlicht.com)](Daniel Sternlicht).
+A workshop for learning GatsbyJS by [http://danielsternlicht.com](Daniel Sternlicht).
 
 In this workshop we’re going to create a Gatsby website, and rely on data from a Medium based blog.
 
 A quick intro to GatsbyJS:
 
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/S632nIS2WKo/0.jpg)](https://www.youtube.com/watch?v=S632nIS2WKo "Intro to GatsbyJS")
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=S632nIS2WKo">
+    <img alt="Intro to GatsbyJS" src="https://img.youtube.com/vi/S632nIS2WKo/0.jpg" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=S632nIS2WKo">
+    <a href="https://www.youtube.com/watch?v=S632nIS2WKo">
+  </a>
+</p>
 
 ## Workshop Instructions
 
-1. Clone this repository
+1. Clone this repository: `git clone https://github.com/outbrain/gatsby-workshop.git`
 
-`git clone https://github.com/outbrain/gatsby-workshop.git`
+2. Install project dependencies: `npm i`
 
-2. Install project dependencies
-
-`npm i`
-
-3. Run dev server
-
-`npm start`
+3. Run dev server: `npm start`
 
 4. If everything worked as expected you should be able to see the app in your browser at:
 http://localhost:8000
