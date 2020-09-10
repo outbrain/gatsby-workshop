@@ -53,4 +53,4 @@ There we want to fetch all blog posts, and for each one of them to create a stat
 
 ## For Cheaters
 
-See solutions in the `DONT_README.md` file :)
+See solutions in the `DONT_README.md` file 😶
