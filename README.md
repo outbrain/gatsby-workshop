@@ -1,12 +1,13 @@
 # GatsbyJS Workshop
 
-A workshop for learning GatsbyJS by [Daniel Sternlicht](http://danielsternlicht.com).
+<p>
+A workshop for learning GatsbyJS by <a href="http://danielsternlicht.com">Daniel Sternlicht</a>.
 
 In this workshop we’re going to create a Gatsby website, and rely on data from a Medium based blog.
-
-A quick intro to GatsbyJS:
+</p>
 
 <p align="center">
+A quick intro to GatsbyJS:
   <a href="https://www.youtube.com/watch?v=S632nIS2WKo">
     <img alt="Intro to GatsbyJS" src="https://img.youtube.com/vi/S632nIS2WKo/0.jpg" />
   </a>
